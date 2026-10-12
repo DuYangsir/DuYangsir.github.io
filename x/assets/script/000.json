@@ -1,0 +1,37 @@
+{
+  "name": "简介 — 约书亚的一生",
+  "map": "maps/000.json",
+  "bg": "000/default.bin",
+  "code": "intro",
+  "dialog": [
+    {
+      "speaker": "",
+      "text": "约书亚的一生",
+      "voice": "000/1.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "一个关于信心、顺服与应许的故事",
+      "voice": "000/2.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "从埃及的奴隶到迦南的征服者",
+      "voice": "000/3.pcm",
+      "img": ""
+    }
+  ],
+  "choices": [
+    {
+      "text": "开始新的旅程",
+      "goto": "001",
+      "right": true
+    },
+    {
+      "text": "返回游戏列表",
+      "goto": "__end__"
+    }
+  ]
+}

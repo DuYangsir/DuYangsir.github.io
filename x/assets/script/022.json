@@ -1,0 +1,44 @@
+{
+  "name": "失败 — 因贪欲而跌倒",
+  "bg": "022/default.bin",
+  "dialog": [
+    {
+      "speaker": "",
+      "text": "   因贪欲而跌倒   ",
+      "voice": "022/1.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "你被财物迷惑了心。",
+      "voice": "022/2.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "亚干因贪爱一件衣服和金银，",
+      "voice": "022/3.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "连累了全以色列人。",
+      "voice": "022/4.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "约书亚记 7:21",
+      "voice": "022/5.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "我在所夺的财物中看见……我就贪爱这些物件，便拿去了。",
+      "voice": "022/6.pcm",
+      "img": ""
+    }
+  ],
+  "end": "defeat",
+  "code": "gameover_greed"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "失败 — 因懈怠而跌倒",
+  "bg": "023/default.bin",
+  "dialog": [
+    {
+      "speaker": "",
+      "text": "   因懈怠而跌倒   ",
+      "voice": "023/1.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "你在胜利中松懈了。",
+      "voice": "023/2.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "约书亚年纪老迈时，",
+      "voice": "023/3.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "耶和华对他说：还有许多未得之地。",
+      "voice": "023/4.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "天国的战役还未结束，",
+      "voice": "023/5.pcm",
+      "img": ""
+    },
+    {
+      "speaker": "",
+      "text": "不可在得胜后沉睡。",
+      "voice": "023/6.pcm",
+      "img": ""
+    }
+  ],
+  "end": "defeat",
+  "code": "gameover_sloth"
+}
